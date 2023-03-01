@@ -1,0 +1,13 @@
+C:\dev\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.exe
+C:\dev\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.deps.json
+C:\dev\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.runtimeconfig.json
+C:\dev\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.runtimeconfig.dev.json
+C:\dev\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.dll
+C:\dev\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.pdb
+C:\dev\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.csprojAssemblyReference.cache
+C:\dev\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.AssemblyInfoInputs.cache
+C:\dev\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.AssemblyInfo.cs
+C:\dev\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.csproj.CoreCompileInputs.cache
+C:\dev\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.dll
+C:\dev\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.pdb
+C:\dev\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.genruntimeconfig.cache
